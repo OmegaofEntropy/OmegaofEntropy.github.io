@@ -14,6 +14,11 @@ body
 	font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+.apropos
+{
+	color:#006;
+}
+
 .highlight
 {
 	background:url(midback.png);
@@ -43,7 +48,6 @@ body
 
 .leftframe
 {
-	border:none;
 	top:121px;
 	position:fixed;
 }
@@ -136,7 +140,7 @@ body
 
 .ztoc:hover
 {
-	height=500px;
+	height:500px;
 }
 
 .orctoc
@@ -152,6 +156,7 @@ body
 .soll td
 {
 	text-align:center;
+	
 }
 
 .ltoc
