@@ -1,0 +1,7 @@
+[02-May-2013 01:58:46] PHP Parse error:  syntax error, unexpected $end in /home3/theblum4/public_html/PterBlog/wp-content/themes/twentytwelve/functions.php on line 494
+[02-May-2013 01:58:51] PHP Parse error:  syntax error, unexpected $end in /home3/theblum4/public_html/PterBlog/wp-content/themes/twentytwelve/functions.php on line 494
+[02-May-2013 01:58:54] PHP Parse error:  syntax error, unexpected $end in /home3/theblum4/public_html/PterBlog/wp-content/themes/twentytwelve/functions.php on line 494
+[02-May-2013 02:08:03] PHP Parse error:  syntax error, unexpected $end in /home3/theblum4/public_html/PterBlog/wp-content/themes/twentytwelve/functions.php on line 494
+[01-May-2013 20:12:45] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home3/theblum4/public_html/index.php on line 17
+[01-May-2013 20:12:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home3/theblum4/public_html/index.php on line 23
+[01-May-2013 20:12:45] PHP Fatal error:  Call to undefined function  displayhomeposts() in /home3/theblum4/public_html/index.php on line 100
